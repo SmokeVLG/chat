@@ -1,0 +1,4 @@
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Chat\Client\bin\Debug\Client.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Chat\Client\bin\Debug\Client.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Chat\Client\obj\Debug\Client.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\Chat\Client\obj\Debug\Client.pdb
